@@ -1,9 +1,7 @@
-
 __author__ = "Núria and Mònica"
 
 import os
 import sys
-
 import pygame
 import random
 from pygame import *
