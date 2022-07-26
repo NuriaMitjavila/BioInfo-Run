@@ -1,0 +1,2 @@
+# BioInfo-Run
+Inspired by the typical Super Mario Bros video game, but modified by bioinformatician students with topics of our university. You must import os, sys, pygame and random to run the script propertly. The main idea was to make three different levels of the game but we were not able to do it with the time we had. In the media there are all the images needed for the script and more media that can be used if you are interested in doing more levels.
